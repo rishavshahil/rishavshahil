@@ -8,6 +8,7 @@
   - <a href="https://gmchpurnea.com" target="_blank">Govt. Medical College & Hospital</a>
   - <a href="https://heistinn.com" target="_blank">Heist Inn(Restaurant Website theme based on series Money Heist)</a>
   - <a href="https://amicoinn.com" target="_blank">Amico Inn(Static Website using bootstrap)</a>
+  - <a href="https://writeforus.biz/home-decor/" target="_blank">Write for Us</a>
 <!---
 rishavshahil/rishavshahil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
