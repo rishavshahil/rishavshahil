@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and development.
 - 🌱 I’m currently learning development.
 - 💞️ I’m looking to collaborate on web developer.
-- 📫 How to reach me Linkein ID: www.linkedin.com/in/rishav-shahil-4b87821a0/
+- 📫 How to reach me Linkein ID: <a href="https://www.linkedin.com/in/rishavshahil/" target="_blank">in/rishavshahil/</a>
 - 👨‍💻 My works:
   - <a href="https://ranksmith.io" target="_blank">Ranksmith - Free Email Search: Email lookup in Domains</a>
   - <a href="https://sarkariresult.study" target="_blank">Sarkari Result(A Notification Job Portal Website)</a>
