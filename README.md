@@ -12,6 +12,7 @@
   - <a href="https://ranksmith.io" target="_blank">Ranksmith - Free Email Search: Email lookup in Domains</a>
   - <a href="https://heavengables.com" target="_blank">Heaven Gables - Home Decor Blog</a>
   - <a href="https://sarkariresult.study" target="_blank">Sarkari Result - A Notification Job Portal Website</a>
+  - <a href="https://udgamlaw.com/" target="_blank">Udgam Law - Law Firm website</a>
   - <a href="https://gmchpurnea.com" target="_blank">Govt. Medical College & Hospital</a>
   - <a href="https://heistinn.com" target="_blank">Heist Inn(Restaurant Website theme based on series Money Heist)</a>
   - <a href="https://watchdroid.com" target="_blank">Watchdroid</a>
